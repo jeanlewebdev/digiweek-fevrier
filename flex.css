@@ -1,0 +1,25 @@
+.michel{
+    color: red;
+    background-color: green;
+}
+.carre{
+    height: 150px;
+    width: 150px;
+}
+
+.bleu{
+    background-color: blue;
+}
+.rouge{
+    background-color: red;
+}
+.vert{
+    background-color: green;
+}
+
+.boite{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}

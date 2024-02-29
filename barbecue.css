@@ -1,0 +1,25 @@
+.barbecue{
+    height: 90vh;
+    width: 90vw;
+    border: red solid 5px;
+    background-image: url("grille.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.boulette{
+    height: 150px;
+    width: 150px;
+    background-image: url("boeuf.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+}
